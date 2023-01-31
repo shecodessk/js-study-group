@@ -12,7 +12,7 @@ All coding levels are invited, we will have material for reference and an amazin
 ## How to Participate
 This study group will happen in our Front End slack channel. 
 
-1. Join the [General Slack Channel](https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-1mqkunz6u-5f8sZQSzh7vO9FzPBCYnHA)
+1. Join the [Front End Slack Community](https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-1mqkunz6u-5f8sZQSzh7vO9FzPBCYnHA)
 2. Join the [#js-studygroup](https://womenwhocodefrontend.slack.com/archives/C0324MXBHSP) channel
 3. Follow our Weekly exercises each Wednesday (Make sure you have notifications enabled. [Here's a guide how to do](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications )
 4. Fork or clone this [repository](https://github.com/WomenWhoCode/js-study-group.git) to get the initial exercises's code. You can share yur Github repo or you can do your codepens and share!
