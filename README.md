@@ -24,23 +24,23 @@ This study group will happen in our Front End slack channel.
 The Javascript Study Group will be a 24/7, community based group! We will post a set of exersises on below dates:
 
 *Week 1*
--CODING WARM UP - Ticket (Feb 8th)
--Drum Kit (Feb 10th)
--Flex panels (Feb 13th)
--CODING BONUS (Feb 15th)
+-CODING WARM UP - Ticket (Feb 8th) <br>
+-Drum Kit (Feb 10th)<br>
+-Flex panels (Feb 13th) <br>
+-CODING BONUS (Feb 15th)<br>
 
 *Week 2*
--CODING BONUS (Feb 18th)
--Array Cardio 1 (Feb 21th)
+-CODING BONUS (Feb 18th) <br>
+-Array Cardio 1 (Feb 21th)<br>
 
 *Week 3*
--Webcam fun (Feb 23th)
--Sticky Nav (Feb 27th)
+-Webcam fun (Feb 23th) <br>
+-Sticky Nav (Feb 27th)<br>
 
 *Week 4*
--Countdown clock (March 1st)
--Array Cardio 2 (March 6th)
--CODING BONUS (March 8th)
+-Countdown clock (March 1st) <br>
+-Array Cardio 2 (March 6th) <br>
+-CODING BONUS (March 8th)<br>
 
 Initial HTML will be posted in this Github repository, you can clone it or fork it.
 
