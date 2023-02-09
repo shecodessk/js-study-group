@@ -19,3 +19,31 @@ This study group will happen in our Front End slack channel.
 
 
 ## Happy Coding 👩🏻‍💻
+
+##Dynamic of the JS Study Group
+The Javascript Study Group will be a 24/7, community based group! We will post a set of exersises on below dates:
+
+*Week 1*
+CODING WARM UP - Ticket (Feb 8th)
+Drum Kit (Feb 10th)
+Flex panels (Feb 13th)
+CODING BONUS (Feb 15th)
+
+*Week 2*
+CODING BONUS (Feb 18th)
+Array Cardio 1 (Feb 21th)
+
+*Week 3*
+Webcam fun (Feb 23th)
+Sticky Nav (Feb 27th)
+
+*Week 4*
+Countdown clock (March 1st)
+Array Cardio 2 (March 6th)
+CODING BONUS (March 8th)
+
+Initial HTML will be posted in this Github repository, you can clone it or fork it.
+
+## Resources
+1. [Wes Bos' Javascript 30](javascript30.com )
+2. [Javascript for Cats](http://jsforcats.com/)
