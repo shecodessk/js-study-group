@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+html, body{
+  margin: 0;
+  padding:0;
+  width: 100%;
+  height: 100%;
+  background-color: beige;
+  font-family: 'Inter', sans-serif;;
+}
+.receipt{
+background-color: #FFFFFF;
+margin: 50px auto;
+padding: 30px 20px;
+width: 20%;
+height: 75%;
+
+
+}
+.input-col{
+  display: grid;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-bottom: 30px;
+}
+.input-box{
+ padding-bottom: 30px;
+}
+label{
+  font-size: 15px;
+  padding-right: 10px;
+}
+.article{
+  padding-right: 18px;
+}
+input{
+  width: 60%;
+  height: 25px;
+  background-color: #D9D9D9;
+  border: none;
+
+}
+.button{
+  text-align: center;
+  padding-bottom: 30px;
+
+}
+button{
+  width: 280px;
+  height: 40px;
+  background-color: #620D4F;
+  color: white;
+  border-radius: 20px;
+  font-family: Inter;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  border: none;
+
+}
+hr{
+  height: 3px;
+  border: none;
+  background: black;
+  border-radius: 1px;
+}
+.total{
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 19.36px;
+  margin-left: 10px;
+}
+/* @media only screen and (min-width:768px){here goes the changes}*/
