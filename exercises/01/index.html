@@ -19,17 +19,27 @@
           <label>Amount</label>
           <input id="amount" />
         </div>
+
+        <div class="input-box">
+          <label>Cost/unit</label>
+          <input id="unit-cost" />
+        </div>
       </div>
       <div>
         <div class="button">
-          <button>Calculate Total</button>
+          <button id="button">Calculate Total</button>
         </div>
       </div>
-      <p>======= YOUR RECEIPT =======</p>
-      <div>
-        <div>
+      <p class="your-receipt">======= YOUR RECEIPT =======</p>
+      <div class="grid">
+        <div class="grid-right">
           <ul id="ticket">
             <!--List of ticket articles here-->
+          </ul>
+        </div>
+        <div class="grid-left">
+          <ul id="cost">
+            <!--List of articles cost here-->
           </ul>
         </div>
       </div>
